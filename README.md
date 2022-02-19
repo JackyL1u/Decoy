@@ -18,6 +18,16 @@ Install Python dependencies
   pip install -r requirements.txt
 ```
     
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`SLACK_URL`
+
+`EMAIL_USERNAME`
+
+`EMAIL_PASSWORD`
+
 ## Deployment
 
 To deploy this Decoy run
