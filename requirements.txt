@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+numpy==1.21.5
+opencv-python==4.5.4.60
+pynput==1.7.6
+requests==2.27.1
+six==1.16.0
+urllib3==1.26.8
