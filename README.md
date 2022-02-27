@@ -30,7 +30,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Deployment
 
-To deploy this Decoy run
+To deploy Decoy run
 
 ```bash
   python app.py
