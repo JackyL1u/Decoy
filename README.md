@@ -39,7 +39,7 @@ To deploy Decoy run
 
 ## Authors
 
-- [@JL0218](https://github.com/JL0218)
+- [@JackyL1u](https://github.com/JackyL1u)
 - [@ansonwong250](https://github.com/ansonwong250)
 - [@jacky-h-nguyen](https://github.com/jacky-h-nguyen)
 
